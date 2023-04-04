@@ -15,7 +15,7 @@ font-family: 'Gabia Solmee';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaSolmee/GabiaSolmee.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaSolmee/GabiaSolmee.css" type="text/css"/>
 ```
 
 &nbsp;
