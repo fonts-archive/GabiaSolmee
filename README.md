@@ -36,7 +36,9 @@ font-face
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaSolmee/GabiaSolmee.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaSolmee/GabiaSolmee.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaSolmee/GabiaSolmee.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaSolmee/GabiaSolmee.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaSolmee/GabiaSolmee.ttf') format('truetype');
 }
 ```
